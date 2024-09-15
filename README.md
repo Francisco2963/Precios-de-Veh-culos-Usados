@@ -1,2 +1,2 @@
-# Precios-de-Veh-culos-Usados
+# Precios-de-Vehiculos-Usados
 Predicción de Precios de Vehículos Usados
